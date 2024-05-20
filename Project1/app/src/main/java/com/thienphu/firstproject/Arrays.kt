@@ -6,5 +6,5 @@ fun main(args: Array<String>) {
     println("Second element :"+ age.get(1))
     println("Third element :"+ age[2])
 
-    
+
 }
